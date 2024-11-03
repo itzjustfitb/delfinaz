@@ -1,9 +1,5 @@
 import React, { useState } from "react";
-import StarIcon from "../../assets/icons/StarIcon";
-import FavoriteIcon from "../../assets/icons/FavoriteIcon";
 import { Button, Col, Row } from "antd";
-import FaveoriteIconFill from "../../assets/icons/FaveoriteIconFill";
-import AddToCartIcon from "../../assets/icons/AddToCartIcon";
 import ProductCard from "../ProductCard/ProductCard";
 
 function ListContainer() {
